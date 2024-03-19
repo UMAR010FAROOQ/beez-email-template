@@ -1,0 +1,1 @@
+# beez-email-template
